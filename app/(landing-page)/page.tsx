@@ -158,17 +158,14 @@ export default async function Page() {
       <section className="py-8 md:py-16">
         <div className="container">
           <div className="mx-auto max-w-6xl">
-            <div className="relative rounded-xl border bg-muted/20 shadow-2xl overflow-hidden">
-              <div className="absolute inset-0 bg-linear-to-t from-background/80 to-transparent z-10 pointer-events-none" />
-              <Image
-                src="/dashboard-preview.png"
-                alt="opensheets Dashboard Preview"
-                width={1920}
-                height={1080}
-                className="w-full h-auto"
-                priority
-              />
-            </div>
+            <Image
+              src="/dashboard-preview.png"
+              alt="opensheets Dashboard Preview"
+              width={1920}
+              height={1080}
+              className="w-full h-auto"
+              priority
+            />
           </div>
         </div>
       </section>

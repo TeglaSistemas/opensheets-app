@@ -1,13 +1,23 @@
-# Opensheets
+<p align="center">
+  <img src="./public/logo_small.png" alt="Opensheets Logo" height="80" />
+</p>
 
-> Projeto pessoal de gestão financeira. Self-hosted, manual e open source.
+<p align="center">
+  Projeto pessoal de gestão financeira. Self-hosted, manual e open source.
+</p>
 
-> **⚠️ Não há versão online hospedada.** Você precisa clonar o repositório e rodar localmente ou no seu próprio servidor.
+> **⚠️ Não há versão online hospedada.** Você precisa clonar o repositório e rodar localmente ou no seu próprio servidor ou computador.
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=flat-square&logo=docker)](https://www.docker.com/)
+
+---
+
+<p align="center">
+  <img src="./public/dashboard-preview.png" alt="Dashboard Preview" width="800" />
+</p>
 
 ---
 

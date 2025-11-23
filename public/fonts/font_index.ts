@@ -31,8 +31,8 @@ const inter = Inter({
   weight: ["400", "500", "600", "700"],
 });
 
-const main_font = anthropic_sans;
-const money_font = funnel_display;
-const title_font = funnel_display;
+const main_font = funnel_display;
+const money_font = anthropic_sans;
+const title_font = anthropic_sans;
 
 export { main_font, money_font, title_font };
