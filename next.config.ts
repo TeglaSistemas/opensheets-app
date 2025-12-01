@@ -6,10 +6,8 @@ dotenv.config();
 
 const nextConfig: NextConfig = {
   // Output standalone para Docker (gera build otimizado com apenas deps necessárias)
-  output: "standalone",
-  experimental: {
-    turbopackFileSystemCacheForDev: true,
-  },
+  // output: "standalone",
+  
   reactCompiler: true,
   typescript: {
     ignoreBuildErrors: true,
